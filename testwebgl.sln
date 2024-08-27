@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{94409CE5-69FA-8BC3-4FC4-506005A7BF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Live2D.Cubism", "Live2D.Cubism.csproj", "{84006BF3-38EE-DD0F-57FF-FD2FD3408446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Live2D.Cubism.Editor", "Live2D.Cubism.Editor.csproj", "{E3253544-ACE6-7A95-7D29-F56FEE118B0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94409CE5-69FA-8BC3-4FC4-506005A7BF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94409CE5-69FA-8BC3-4FC4-506005A7BF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94409CE5-69FA-8BC3-4FC4-506005A7BF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94409CE5-69FA-8BC3-4FC4-506005A7BF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84006BF3-38EE-DD0F-57FF-FD2FD3408446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84006BF3-38EE-DD0F-57FF-FD2FD3408446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84006BF3-38EE-DD0F-57FF-FD2FD3408446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84006BF3-38EE-DD0F-57FF-FD2FD3408446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3253544-ACE6-7A95-7D29-F56FEE118B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3253544-ACE6-7A95-7D29-F56FEE118B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3253544-ACE6-7A95-7D29-F56FEE118B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3253544-ACE6-7A95-7D29-F56FEE118B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
